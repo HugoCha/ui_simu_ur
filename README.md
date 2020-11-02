@@ -73,7 +73,7 @@ Dialog window will appear in function of the sequences.
 This is how it should look like when you use (with a different text size):
 <pre><code>rosrun ui_simu_ur rqt_ui</code></pre>
 
-![UI Alone Picture](https://github.com/HugoCha/ui_simu_ur/raw/master/resource/UI_alone_picture.png)
+![UI Alone Picture](https://github.com/HugoCha/ui_simu_ur/raw/main/resource/UI_alone_picture.png)
 
 This is how it should look like when you use :
 <pre><code>roslaunch simu_ur Ur3.launch sim:=true protocol:=1</code></pre>
@@ -83,20 +83,20 @@ In simulation :
 ![UI simulation Picture](https://github.com/HugoCha/ui_simu_ur/raw/main/resource/UI_alone_picture.png)
 
 In the reality :
-![UI real Picture](https://github.com/HugoCha/ui_simu_ur/raw/master/resource/UI_real.png)
+![UI real Picture](https://github.com/HugoCha/ui_simu_ur/raw/main/resource/UI_real.png)
 
 
 ## Description of the Sequences
 
 ### The Main window event :
 
-![Main Window](https://github.com/HugoCha/ui_simu_ur/raw/master/resource/Main_process.png)
+![Main Window](https://github.com/HugoCha/ui_simu_ur/raw/main/resource/Main_process.png)
 
 
 ### The countdown event :
 
-![Countdown](https://github.com/HugoCha/ui_simu_ur/raw/master/resource/Countdown.png)
+![Countdown](https://github.com/HugoCha/ui_simu_ur/raw/main/resource/Countdown.png)
 
 ### The Cube detection event :
 
-![Cube detection](https://github.com/HugoCha/ui_simu_ur/raw/master/resource/cube_detect.png)
+![Cube detection](https://github.com/HugoCha/ui_simu_ur/raw/main/resource/cube_detect.png)
