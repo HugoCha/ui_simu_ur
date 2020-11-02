@@ -80,7 +80,7 @@ This is how it should look like when you use :
 
 In simulation :
 
-![UI simulation Picture](https://github.com/HugoCha/ui_simu_ur/-/raw/master/resource/UI_picture.png)
+![UI simulation Picture](https://github.com/HugoCha/ui_simu_ur/raw/main/resource/UI_alone_picture.png)
 
 In the reality :
 ![UI real Picture](https://github.com/HugoCha/ui_simu_ur/-/raw/master/resource/UI_real.png)
