@@ -12,7 +12,7 @@ You need to install PyQt5 with (if your work with local environnement):
 If you work with virtual environnement, go check : http://www.niladicpodcast.com/blog/2017/8/install-pyqt5-inside-a-virtual-environment/
 
 
-Please go check : https://gitlab.inria.fr/auctus/simu_ur/-/blob/master/README.md to see the other instalation needed.
+Please go check : https://github.com/HugoCha/simu_ur/blob/master/README.md to see the other instalation needed.
 
 ## Usage
 
@@ -80,10 +80,10 @@ This is how it should look like when you use :
 
 In simulation :
 
-![UI simulation Picture](https://gitlab.inria.fr/auctus/simuurui/-/raw/master/resource/UI_picture.png)
+![UI simulation Picture](https://github.com/HugoCha/ui_simu_ur/-/raw/master/resource/UI_picture.png)
 
 In the reality :
-![UI real Picture](https://gitlab.inria.fr/auctus/simuurui/-/raw/master/resource/UI_real.png)
+![UI real Picture](https://github.com/HugoCha/ui_simu_ur/-/raw/master/resource/UI_real.png)
 
 
 ## Description of the Sequences
@@ -95,8 +95,8 @@ In the reality :
 
 ### The countdown event :
 
-![Countdown](https://gitlab.inria.fr/auctus/simuurui/-/raw/master/resource/Countdown.png)
+![Countdown](https://github.com/HugoCha/ui_simu_ur/-/raw/master/resource/Countdown.png)
 
 ### The Cube detection event :
 
-![Cube detection](https://gitlab.inria.fr/auctus/simuurui/-/raw/master/resource/cube_detect.png)
+![Cube detection](https://github.com/HugoCha/ui_simu_ur/-/raw/master/resource/cube_detect.png)
